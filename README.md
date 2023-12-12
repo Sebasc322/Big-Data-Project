@@ -21,3 +21,7 @@ This will run the Streamlit dashboard.
 
 ![Dashboard_home.jpg](https://github.com/Sebasc322/UMBC-MPS-DS/blob/main/Fall-2023/Data-603/Final%20Project/Dashboard_home.jpg)
 
+
+The data architecture of the following project looks like this:
+![Dashboard_home.jpg](https://github.com/Sebasc322/UMBC-MPS-DS/blob/main/Fall-2023/Data-603/Final%20Project/Dashboard_home.jpg)
+
