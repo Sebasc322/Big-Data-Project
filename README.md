@@ -12,6 +12,11 @@ This repository has:
 
 This project uses a docker container that can be found in my [Docker-For-Data-Science](https://github.com/Sebasc322/Docker-For-Data-Science/tree/main/Big-Data) repository!  
 
+The data architecture of the following project looks like this:
+![Architecture.jpg](https://github.com/Sebasc322/Big-Data/blob/main/Architecture.jpg)
+
+The data can be found on the [Yelp dataset](https://www.yelp.com/dataset)
+
 
 Go to the terminal and run:
 ```python 
@@ -21,8 +26,4 @@ streamlit run Yelp.py
 This will run the Streamlit dashboard.
 
 ![Dashboard_home.jpg](https://github.com/Sebasc322/UMBC-MPS-DS/blob/main/Fall-2023/Data-603/Final%20Project/Dashboard_home.jpg)
-
-
-The data architecture of the following project looks like this:
-![Architecture.jpg](https://github.com/Sebasc322/Big-Data/blob/main/Architecture.jpg)
 
