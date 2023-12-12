@@ -10,6 +10,7 @@ This repository has:
 3 python scripts for the Streamlit dashboard, based in Python and Pyspark for data processing. 
 1 main python script for the Streamlit dashboard
 
+This project uses a docker container that can be found in my [Docker-For-Data-Science](https://github.com/Sebasc322/Docker-For-Data-Science/tree/main/Big-Data) repository!  
 
 
 Go to the terminal and run:
