@@ -25,5 +25,5 @@ streamlit run Yelp.py
 
 This will run the Streamlit dashboard.
 
-![Dashboard_home.jpg](https://github.com/Sebasc322/UMBC-MPS-DS/blob/main/Fall-2023/Data-603/Final%20Project/Dashboard_home.jpg)
+![home.jpg](https://github.com/Sebasc322/Big-Data-Project/blob/main/home.jpg)
 
